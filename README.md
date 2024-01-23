@@ -96,3 +96,9 @@ A chain supermarket is implementing a computer vision system to process customer
 * **Activity Area** : Telecoms
 * **Technical Area**: `Machine Learning`, `Classification`
 
+[Project: Comparison of users of a music streaming service between two cities](https://github.com/nirevexin/Data-Science-Professional-Training-Course/blob/main/Comparison%20of%20users%20of%20a%20music%20streaming%20service%20between%20two%20cities/Comparison%20of%20Yandex%20Music%20users%20of%20two%20cities.ipynb)
+* **Description**: Using real Yandex.Music data to compare the behavior and preferences of users in two capitals - Moscow and St. Petersburg.
+* **Goal**: Determining the musical preferences of users and the differences between the two cities.
+* **Tools**: `Python`,  `Pandas`, `Matplotlib`
+* **Activity Area** : Streaming Services, Internet Services
+* **Technical Area**: `Data Analysis`
