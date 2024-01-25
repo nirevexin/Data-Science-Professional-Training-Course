@@ -13,7 +13,7 @@ Below is an overview of the projects:
 An online store launches a new service. Now users can edit and add product descriptions, just like in wiki communities. 
 That is, customers suggest their edits and comment on the changes of others. We need a tool that will look for toxic comments and send them for moderation.
 * **Goal**: Determination of comments toxicity.
-* **Tools**: `Pandas`, `Python`, `nltk`, `tf-idf`, `tqdm`, `Scikit-learn`
+* **Tools**: `Pandas`, `Python`, `nltk`, `tf-idf`, `Word2vec` , `tqdm`, `Scikit-learn`
 * **Activity Area** : Internet Services, Start-Ups
 * **Technical Area**: `NLP`, `Machine Learning`
 
