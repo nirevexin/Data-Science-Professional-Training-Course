@@ -6,7 +6,6 @@
 ## Conclusions from the research:
 
 - On average, gaming platforms are supported by developers for 4-5 years.
-- Current gaming platforms - PS4, Xbox One, PC.
 - Games that receive good reviews from critics tend to sell better.
 - The most **potentially profitable platforms** are `PS4` and `XOne`. For some time, games for the `3DS`, `WiiU`, and `PSV` platforms will still be relevant. As for the `PC`, it has always been there, it doesn’t sell as much as others, but it always remains.
 - If we divide the **popularity of platforms by market**, then:
@@ -17,10 +16,10 @@
 - **Age rating**:
      - In **Europe** and **North America**, the most sold ratings are `M`, `E` and `Unrated`.
      - In **Japan**: `Unrated` tops, with great superiority over others.
-- **Critic ratings** have the same impact on game sales on all platforms (correlation between 0.3 and 0.4.).
-- **User ratings** have no impact on sales on `PS3`, `PS4`, `X360` and `XOne`, but start to have some impact on `3DS` and `WiiU`, both from `Nintendo`, with correlations of 0.25 and 0.42 respectively.
+- **Critic ratings** have the same impact on game sales on all platforms.
+- **User ratings** have no impact on sales on `PS3`, `PS4`, `X360` and `XOne`, but start to have some impact on `3DS` and `WiiU`, both from `Nintendo`.
 - We also tested two hypotheses stated at the very beginning of the study. As a result:
 
-     - **average user ratings** for `Xbox One` and `PC` have big probability to be **identical** (the difference in average values is statistically insignificant).
+     - **average user ratings** for `Xbox One` and `PC` have big probability to be **identical**.
 
-     - **average user ratings** for the `Action` and `Sports` genres have big probability to be **different** (the difference in average values is statistically significant).
+     - **average user ratings** for the `Action` and `Sports` genres have big probability to be **different**.
