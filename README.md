@@ -2,7 +2,7 @@ This repository contains data analytics and data science projects from different
 
 - Each folder contains a Jupyter Notebook file, corresponding to a particular project.
 - It also contains a README file with a detailed explanation and conclusion of the project.
-- In case the project has a *sweetviz* report (an open-source Python library that generates beautiful, high-density visualizations to kickstart EDA (Exploratory Data Analysis) with just two lines of code), there will also be a file with that report.
+- In case the project has a *sweetviz* report (an open-source Python library that generates beautiful, high-density visualizations to kickstart EDA (Exploratory Data Analysis) with just two lines of code), there will also be an .html file with that report which you need to download and click-open in order to visualize.
 
 Below is an overview of the projects:
 
