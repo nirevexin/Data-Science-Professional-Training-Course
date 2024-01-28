@@ -7,5 +7,5 @@
 
 - We trained several classifier models with a focus on identifying as many customers as possible who will actually churn;
 - The model that gives the most accurate predictions is selected;
-- It was possible to achieve a completeness rate of 65%: this means that 2 out of 3 clients selected by the model will actually be at risk;
-- The quality of the model was confirmed on an additional data set and satisfies the conditions of the problem.
+- It was possible to achieve a completeness rate of 61%: this means that practically 2 out of 3 clients selected by the model will actually be at risk;
+
