@@ -1,7 +1,7 @@
 # Oil field development
 ## Status: completed.
 
-## The goal of the project: to choose from three regions one in which oil production will bring the greatest profit.
+## Project goal: to choose from three regions one in which oil production will bring the greatest profit.
 
 ## Work results:
 
