@@ -5,13 +5,9 @@
 
 ## Conclusions from the research:
 
-- On average, gaming platforms are supported by developers for 4-5 years
-- Current gaming platforms - PS4, Xbox One, PC;
-- Games that receive good reviews from critics tend to sell better;
-- In America and Europe, home consoles are preferred, and the most lucrative genres are shooters and action games;
-- In Japan, portable consoles and RPG games are more popular.
-- Based on historical game sales data for 2016, we needed to identify patterns that determine the success of games.
-
+- On average, gaming platforms are supported by developers for 4-5 years.
+- Current gaming platforms - PS4, Xbox One, PC.
+- Games that receive good reviews from critics tend to sell better.
 - The most **potentially profitable platforms** are `PS4` and `XOne`. For some time, games for the `3DS`, `WiiU`, and `PSV` platforms will still be relevant. As for the `PC`, it has always been there, it doesn’t sell as much as others, but it always remains.
 - If we divide the **popularity of platforms by market**, then:
      - In **Japan**, they are true to their own: `Sony` and `Nintendo` platforms are the most popular.
