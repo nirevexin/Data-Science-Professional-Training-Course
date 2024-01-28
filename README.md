@@ -1,7 +1,7 @@
 This repository contains data analytics and data science projects from different areas such as banking, industry, telecoms, real estate and online and offline business that I carried out during my studies.
 
 - Each folder contains a Jupyter Notebook file, corresponding to a particular project.
-- It also contains a README file with a detailed explanation of the project.
+- It also contains a README file with a detailed explanation and conclusion of the project.
 - In case the project has a *sweetviz* report (an open-source Python library that generates beautiful, high-density visualizations to kickstart EDA (Exploratory Data Analysis) with just two lines of code), there will also be a file with that report.
 
 Below is an overview of the projects:
