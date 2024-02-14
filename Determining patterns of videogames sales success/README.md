@@ -1,7 +1,5 @@
-# Analysis of the video game market for an online store
-## Status: Completed.
 
-## Project goal: to analyze the available data and determine which games sell best in order to launch an advertising campaign on them in 2017.
+## Project goal: Identifying the patterns that determine a videogame sales success.
 
 ## Conclusions from the research:
 
