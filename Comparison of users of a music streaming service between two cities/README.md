@@ -13,5 +13,5 @@
   - in St. Petersburg - jazz and classics.
 Thus, the second hypothesis was only partially confirmed. This result might have been different if not for gaps in the data.
 
-- The tastes of users in Moscow and St. Petersburg have more in common than differences. Contrary to expectations, genre preferences in St. Petersburg resemble those in Moscow.
-- The third hypothesis was not confirmed. If differences in preferences exist, they are not noticeable for the majority of users.
+- The tastes of users in Moscow and St. Petersburg have more in common than differences. Contrary to expectations, genre preferences in St. Petersburg resemble those in Moscow:
+  - The third hypothesis was not confirmed. If differences in preferences exist, they are not noticeable for the majority of users.
