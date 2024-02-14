@@ -83,7 +83,7 @@
     
    - The share of abnormally fast sales from the total is 0.01%
     
-   - Most values are located to the right of the median. To determine the usual sales time, let's take the average value of 169 days.
+   - Most values are located to the right of the median. The usual sales time can be determined by taking the average value, which is 169 days.
 
 - We have created a correlation table and concluded that the factors that most influence the price of housing are the following, classified from most influential to least influential:
 
@@ -112,7 +112,7 @@
     - The lowest price is in Vyborg.
 - We calculated the average price per kilometer and the relationship between the price of housing and its distance from the city center:
 
-- The correlation between the price of real estate and its distance from the city center gave a negative value: -0.40. This means that as the price of real estate increases, the distance to the city center decreases, because the correlation value is a tangent with an angle of 40 degrees, which is reflected in the graph.
+    - The correlation between the price of real estate and its distance from the city center gave a negative value: -0.40. This means that as the price of real estate increases, the distance to the city center decreases, because the correlation value is a tangent with an angle of 40 degrees, which is reflected in the graph.
 
     - The graph shows the correlation. However, it coincides that extremely expensive apartments (possibly elite) are located within a radius of 7.5 km from the center.
     
