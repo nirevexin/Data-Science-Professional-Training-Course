@@ -1,6 +1,6 @@
 # Project goal: Determine the factors that affect the non-repayment of the credit on time.
 
-Results:
+**Results**:
 
 - People with no children are the best at repaying loans. The share of debtors here is 7.54%. The situation is worse with debtors who have one or two children, the share of non-repayment is 9.23% and 9.45% here, respectively.
 
