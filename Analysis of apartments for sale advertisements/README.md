@@ -1,3 +1,5 @@
+# Project goal: Determining the market value of real estate properties and typical apartment parameters.
+
 **During the implementation of the project, the following was done**:
 
 ## Preprocessing stage
