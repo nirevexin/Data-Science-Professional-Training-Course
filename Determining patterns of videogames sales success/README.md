@@ -1,7 +1,7 @@
 
 ## Project goal: Identifying the patterns that determine a videogame sales success.
 
-## Conclusions from the research:
+### Results:
 
 - On average, gaming platforms are supported by developers for 4-5 years.
 - The most **potentially profitable platforms** are `PS4` and `XOne`. For some time, games for the `3DS`, `WiiU`, and `PSV` platforms will still be relevant. As for the `PC`, it has always been there, it doesn’t sell as much as others, but it always remains.
