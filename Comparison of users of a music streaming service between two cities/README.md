@@ -1,6 +1,6 @@
 ## Project goal: Determining the musical preferences of users and the differences between the two cities by studying three hypothesis:
 #### Hypotheses 1: User activity depends on the day of the week. Moreover, in Moscow and St. Petersburg this manifests itself in different ways.
-#### Hypotheses 2: on Monday morning in Moscow some genres prevail, and in St. Petersburg others. Likewise, on Friday evenings, different genres predominate, depending on the city.
+#### Hypotheses 2: on Monday morning some genres prevail in Moscow , and others in St. Petersburg. Likewise, on Friday evenings, different genres predominate, depending on the city.
 #### Hypothesis 3: St. Petersburg is the capital of rap, music of this genre is listened to more often there than in Moscow. And Moscow is a city of contrasts, in which, nevertheless, pop music prevails.
 **Results:**
 - We have tested three hypotheses and found:
