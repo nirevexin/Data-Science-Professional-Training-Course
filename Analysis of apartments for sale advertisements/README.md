@@ -118,4 +118,4 @@
     
     - The average price for KM is 70.96 million rubles.
 
-Since price and distance are indirectly proportional, in order to get the average price at a given distance from the center, we need to divide 70.96 by the distance.
+    - Since price and distance are indirectly proportional, in order to get the average price at a given distance from the center, we need to divide 70.96 by the distance.
