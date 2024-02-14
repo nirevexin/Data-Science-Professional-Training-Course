@@ -75,7 +75,7 @@ A chain supermarket is implementing a computer vision system to process customer
 * **Activity Area** : Mining Companies
 * **Technical Area**: `Machine Learning`, `Financial analysis`, `Regression`, `Business model development`
 
-[Project: Analysis of apartments for sale advertisements](https://github.com/nirevexin/Data-Science-Professional-Training-Course/blob/main/Analysis%20of%20apartments%20for%20sale%20advertisements/Analysis%20of%20apartments%20for%20sale%20advertisements.ipynb)
+[Project: Analysis of apartments for sale advertisements](https://github.com/nirevexin/Data-Science-Professional-Training-Course/tree/main/Analysis%20of%20apartments%20for%20sale%20advertisements)
 * **Description**: At our disposal is data from the Yandex Real Estate service - an archive of advertisements for the sale of apartments in St. Petersburg and neighboring settlements for several years. We're asked to learn how to determine the market value of real estate.
 * **Goal**: Determining the market value of real estate properties and typical apartment parameters.
 * **Tools**: `Python`,  `Pandas`, `Matplotlib`, `Seaborn`, `EDA` , `Data Visualization`
