@@ -114,7 +114,7 @@
     - The lowest price is in Vyborg.
 - We calculated the average price per kilometer and the relationship between the price of housing and its distance from the city center:
 
-    - The correlation between the price of real estate and its distance from the city center gave a negative value: -0.40. This means that as the price of real estate increases, the distance to the city center decreases, because the correlation value is a tangent with an angle of 40 degrees, which is reflected in the graph.
+    - The correlation between the price of real estate and its distance from the city center gave a negative value: -0.40. This means that as the price of real estate increases, the distance to the city center decreases.
 
     - The graph shows the correlation. However, it coincides that extremely expensive apartments (possibly elite) are located within a radius of 7.5 km from the center.
     
