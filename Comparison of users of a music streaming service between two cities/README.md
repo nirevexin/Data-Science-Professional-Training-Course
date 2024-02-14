@@ -1,3 +1,4 @@
+## Project goal: Determining the musical preferences of users and the differences between the two cities
 **Results:**
 - We have tested three hypotheses and found:
 
