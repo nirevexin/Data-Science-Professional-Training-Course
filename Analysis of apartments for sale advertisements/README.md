@@ -35,28 +35,28 @@
 
 - We visualized the gaps in the data:
 
-      - total_images: 0
-      - last_price: 0
-      - total_area: 0
-      - first_day_exposition: 0
-      - rooms: 0
-      - ceiling_height: 9195
-      - floors_total: 86
-      - living_area: 1903
-      - floor: 0
-      - is_apartment: 20924
-      - studio: 0
-      - open_plan: 0
-      - kitchen_area: 2278
-      - balcony: 11519
-      - locality_name: 49
-      - airports_nearest: 5542
-      - cityCenters_nearest: 5519
-      - parks_around3000: 5518
-      - parks_nearest: 15620
-      - ponds_around3000: 5518
-      - ponds_nearest: 14589
-      - days_exposition: 3181
+  - total_images: 0
+  - last_price: 0
+  - total_area: 0
+  - first_day_exposition: 0
+  - rooms: 0
+  - ceiling_height: 9195
+  - floors_total: 86
+  - living_area: 1903
+  - floor: 0
+  - is_apartment: 20924
+  - studio: 0
+  - open_plan: 0
+  - kitchen_area: 2278
+  - balcony: 11519
+  - locality_name: 49
+  - airports_nearest: 5542
+  - cityCenters_nearest: 5519
+  - parks_around3000: 5518
+  - parks_nearest: 15620
+  - ponds_around3000: 5518
+  - ponds_nearest: 14589
+  - days_exposition: 3181
 
 - We analyzed the gaps using graphs, histograms and information display techniques and filled them accordingly.
 
@@ -64,57 +64,58 @@
 
 - We also analyzed the anomalies and eliminated them.
 
-- New columns were created:
+- New features were created:
 
-      - price per square meter: data['price_per_sqm']
-      - publication weekday : data['exposition_weekday']
-      - publication month : data['exposition_month']
-      - year of publication : data['exposition_year']
-      - nearest city center in km: data['cityCenters_nearest_KM']
+    - price per square meter: data['price_per_sqm']
+    - publication weekday : data['exposition_weekday']
+    - publication month : data['exposition_month']
+    - year of publication : data['exposition_year']
+    - nearest city center in km: data['cityCenters_nearest_KM']
   
 ## Analysis stage
-Using graphs and methods to display information, we have established that:
+- Using graphs and methods to display information, we have established that:
 
-The average sales rate has been increasing over the years.
+   - The average sales rate has been increasing over the years.
+    
+   - Slow sales are those that take at least 420 days (beyond the Q3+1.5*IQR limit), and fast sales are those that take less than 3 days.
+    
+   - The share of abnormally slow sales from the total is 10.15%.
+    
+   - The share of abnormally fast sales from the total is 0.01%
+    
+   - Most values are located to the right of the median. To determine the usual sales time, let's take the average value of 169 days.
 
-Slow sales are those that take at least 420 days (beyond the Q3+1.5*IQR limit), and fast sales are those that take less than 3 days.
+- We have created a correlation table and concluded that the factors that most influence the price of housing are the following, classified from most influential to least influential:
 
-The share of abnormally slow sales from the total is 10.15%.
+    - 1 Total area
+    - 2 Living Area
+    - 3 Number of Rooms
+    - 4 Kitchen area
+      
+- We also built graphs to trace the relationship between the price of an apartment and other linearly independent parameters:
 
-The share of abnormally fast sales from the total is 0.01%
+    - It can be seen that apartments located on the ground floor are cheaper.
+    
+    - Apartments on the middle floors are usually the most expensive.
+    
+    - Prices for apartments on the top floors are between the prices for the first and middle floors.
+    
+    - Apparently, more expensive apartments are published on Thursdays. From Thursday to Saturday, prices drop sharply. The cheapest apartments are published on Saturday. Prices then rise progressively until Thursday.
+    
+    - Regarding the month, the correlation, as with days, is insignificant, but we can say that apartments published in December are slightly more expensive.
+    
+    - From 2014 to 2016, prices plummeted from about 9 million to just over five and a half million. After 2016, prices continue to fall, but not very significantly. After 2018, they begin to grow again at the same rhythm without significant volatility. In the periods from 2016 to 2019, prices remain in the range of 5.5-6 million.
 
-Most values are located to the right of the median. To determine the usual sales time, let's take the average value of 169 days.
+- We have created a table and graph with the average price per square meter for the ten cities where the most apartments are published and we found out that:
 
-We have created a correlation table and concluded that the factors that most influence the price of housing are the following, classified from most influential to least influential:
+    - The highest price per square meter of housing is in St. Petersburg.
+    - The lowest price is in Vyborg.
+- We calculated the average price per kilometer and the relationship between the price of housing and its distance from the city center:
 
-1 Total area
-2 Living Area
-3 Number of Rooms
-4 Kitchen area
-We also built graphs to trace the relationship between the price of an apartment and other linearly independent parameters:
+- The correlation between the price of real estate and its distance from the city center gave a negative value: -0.40. This means that as the price of real estate increases, the distance to the city center decreases, because the correlation value is a tangent with an angle of 40 degrees, which is reflected in the graph.
 
-It can be seen that apartments located on the ground floor are cheaper.
-
-Apartments on the middle floors are usually the most expensive.
-
-Prices for apartments on the top floors are between the prices for the first and middle floors.
-
-Apparently, more expensive apartments are published on Thursdays. From Thursday to Saturday, prices drop sharply. The cheapest apartments are published on Saturday. Prices then rise progressively until Thursday.
-
-Regarding the month, the correlation, as with days, is insignificant, but we can say that apartments published in December are slightly more expensive.
-
-From 2014 to 2016, prices plummeted from about 9 million to just over five and a half million. After 2016, prices continue to fall, but not very significantly. After 2018, they begin to grow again at the same rhythm without significant volatility. In the periods from 2016 to 2019, prices remain in the range of 5.5-6 million.
-
-We have created a table and graph with the average price per square meter for the ten cities where the most apartments are published and we found out that:
-
-The highest price per square meter of housing is in St. Petersburg.
-The lowest price is in Vyborg.
-We calculated the average price per kilometer and the relationship between the price of housing and its distance from the city center:
-
-The correlation between the price of real estate and its distance from the city center gave a negative value: -0.40. This means that as the price of real estate increases, the distance to the city center decreases, because the correlation value is a tangent with an angle of 40 degrees, which is reflected in the graph.
-
-The graph shows the correlation. However, it coincides that extremely expensive apartments (possibly elite) are located within a radius of 7.5 km from the center.
-
-The average price for KM is 70.96 million rubles.
+    - The graph shows the correlation. However, it coincides that extremely expensive apartments (possibly elite) are located within a radius of 7.5 km from the center.
+    
+    - The average price for KM is 70.96 million rubles.
 
 Since price and distance are indirectly proportional, in order to get the average price at a given distance from the center, we need to divide 70.96 by the distance.
