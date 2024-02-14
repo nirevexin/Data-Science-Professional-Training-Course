@@ -118,6 +118,6 @@
 
     - The graph shows the correlation. However, it coincides that extremely expensive apartments (possibly elite) are located within a radius of 7.5 km from the center.
     
-    - The average price for KM is 70.96 million rubles.
+    - The average price per KM is 70.96 million rubles.
 
     - Since price and distance are indirectly proportional, in order to get the average price at a given distance from the center, we need to divide 70.96 by the distance.
