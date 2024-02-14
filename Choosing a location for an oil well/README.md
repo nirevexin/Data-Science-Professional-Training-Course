@@ -1,9 +1,6 @@
-# Oil field development
-## Status: completed.
-
 ## Project goal: to select from three regions one in which oil production will bring the greatest profit.
 
-## Work results:
+**Results**:
 
 - Regression models were trained to predict oil reserves. Prediction accuracy varies across regions;
 - The potential profit from the selection of wells based on the model solution was calculated;
