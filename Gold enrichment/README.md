@@ -1,12 +1,12 @@
 ### Goal: create a ML model to predict the gold recovery rate from a gold ore
 ### Process description and Data
 Let's describe each stage:
-- 1. Flotation
+- 1 **Flotation**
      
 A mixture of gold ore is fed into the flotation unit. After enrichment, a rough concentrate and “waste tailings” are obtained, that is, the remains of a product with a low concentration of valuable metals.
 The stability of this process is affected by the inconsistent and suboptimal physicochemical state of the flotation pulp (a mixture of solid particles and liquid).
 
-- 2. Cleaning
+- 2 **Cleaning**
      
 The rough concentrate undergoes two purifications. The output is a final concentrate and new tailings.
 
@@ -18,14 +18,14 @@ The rough concentrate undergoes two purifications. The output is a final concent
   - Sulphate - sulfate (in this production, sodium sulfide);
   - Depressant - depressant (sodium silicate).
 - Rougher process - flotation
-- Rougher tails - dump tailings
+- Rougher tails - waste tailings
 - Float banks - flotation unit
 - Cleaner process - cleaning
 - Rougher Au - rough gold concentrate
 - Final Au - final gold concentrate
 #### Stage parameters
 - air amount - air volume
-- fluid levels — fluid level
+- fluid levels - fluid level
 - feed size - size of raw material granules
 - feed rate - feed speed
 ### Results:
