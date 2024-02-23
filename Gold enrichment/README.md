@@ -15,9 +15,9 @@ During the implementation of this project the following was carried out:
   - low probability to be different, so the model assessment should be normal.
 - The outliers where the metal concentration is zero were removed.
 - Analysis of the total concentration of metals at different stages was done:
- - The total concentration increases significantly after flotation.
- - After the first cleaning, it decreases sharply, and after the second cleaning, it increases again.
- - In the end, the combined concentration of metals remains slightly higher than that which was after the second cleaning but less than that which was after flotation, and the distribution shifts towards the average.
+  - The total concentration increases significantly after flotation.
+  - After the first cleaning, it decreases sharply, and after the second cleaning, it increases again.
+  - In the end, the combined concentration of metals remains slightly higher than that which was after the second cleaning but less than that which was after flotation, and the distribution shifts towards the average.
 - A function to calculate sMAPE was created.
 - Feature dimensionality was reduced via UMAP for better predicting performance.
 - Considering the nature of the data, several predicting models were created (Ridge Reg., Random Forest Reg., Decision Tree Reg. and LGBM) and the two best models for each, flotation and final stage, were selected:
