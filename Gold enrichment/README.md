@@ -1,4 +1,5 @@
 
+## Goal: create a ML model to predict the gold recovery rate from a gold ore
 ## Results:
 During the implementation of this project the following was carried out:
 
