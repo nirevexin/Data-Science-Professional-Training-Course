@@ -57,7 +57,7 @@ It is necessary to predict two quantities at once:
   - After the first cleaning, it decreases sharply, and after the second cleaning, it increases again.
   - In the end, the combined concentration of metals remains slightly higher than that which was after the second cleaning but less than that which was after flotation, and the distribution shifts towards the average.
 - A function to calculate sMAPE was created.
-- The correlation among the features in both rougher and final phases was checked and the correlated features were removed to avoid interference in the prediction quality.
+- The correlation among the features in both flotation and final phases was checked and the correlated features were removed to avoid interference in the prediction quality.
 - Feature dimensionality was reduced via UMAP for better predicting performance.
 - Considering the nature of the data, several predicting models were created (Ridge Reg., Random Forest Reg., Decision Tree Reg. and LGBM) and the two best models for each, flotation and final stage, were selected:
 
