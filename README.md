@@ -44,7 +44,7 @@ That is, customers suggest their edits and comment on the changes of others. We 
 * **Goal**: Determination of comments toxicity.
 * **Tools**: `Pandas`, `Python`, `nltk`, `tf-idf`, `Word2vec` , `tqdm`, `Scikit-learn`
 * **Activity Area** : Internet Services, Start-Ups
-* **Technical Area**: `NLP`, `Machine Learning`
+* **Technical Area**: `NLP`, `Machine Learning` `Classification`
 
 [Project: Telephone rate recommendation](https://github.com/nirevexin/Data-Science-Professional-Training-Course/tree/main/Telephone%20rate%20recomendation)
 * **Description**: A mobile operator has found out that many customers use archived tariffs. They want to build a system that can analyze customer behavior and offer users one of the new tariffs.
@@ -73,28 +73,35 @@ A chain supermarket is implementing a computer vision system to process customer
 * **Goal**: Develop a ML model that will predict the final temperature of a steel alloy.
 * **Tools**: `Python`, `Scikit-learn`, `LightGBM` , `NumPy` , `CatBoost`, `Pandas`, `Matplotlib`, `Seaborn`, `Exploratory Data Analysis`
 * **Activity Area** : Industry, Metallurgy
-* **Technical Area**: `Data Analysis`, `Machine Learning`
+* **Technical Area**: `Data Analysis`, `Machine Learning` `Regression`
+
+[Project: Gold enrichment](https://github.com/nirevexin/Data-Science-Professional-Training-Course/tree/main/Gold%20enrichment)
+* **Description**: A ML model is being built for an industrial company that develops solutions for the efficient operation of industrial enterprises. The model must predict the recovery rate of gold from gold ore based on data with mining and refining parameters. The model will help optimize production so as not to launch an enterprise with unprofitable characteristics.
+* **Goal**: Predict the concentration of gold during the gold purification process.
+* **Tools**: `Python`, `Scikit-learn`, `LightGBM` , `NumPy` , `Pandas`, `Matplotlib`, `Seaborn`, `Exploratory Data Analysis` `Optuna` `UMAP` `SciPy.stats`
+* **Activity Area** : Industry, Metallurgy
+* **Technical Area**: `Data Analysis`, `Machine Learning` `Regression`
 
 [Project: Taxi orders forecast](https://github.com/nirevexin/Data-Science-Professional-Training-Course/tree/main/Taxi%20orders%20forecast)
 * **Description**: A taxi company collected historical data on taxi bookings at airports. To attract more drivers during peak periods, they need to predict the number of taxi orders for every next hour. 
 * **Goal**: Development of a system for predicting order volume.
 * **Tools**: `Statsmodels`, `Augmented Dickey-Fuller test`, `Python`, `Scikit-learn`, `LightGBM`, `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`
 * **Activity Area** : Business, Internet Services, Start-ups
-* **Technical Area**: `Time Series`, `Machine Learning`
+* **Technical Area**: `Time Series`, `Machine Learning` `Regression`
 
 [Project: Determining cars prices ](https://github.com/nirevexin/Data-Science-Professional-Training-Course/tree/main/Determining%20cars%20prices)
 * **Description**: A service for selling used cars is developing an application to attract new customers. Through this app, they can quickly find out the market value of their car. Based on historical data, it is necessary to build a model that will determine a car's price.
 * **Goal**: Development of a system for recommending a price for a car based on its description.
 * **Tools**: `Python`, `Pandas`, `Scikit-learn`, `Seaborn`, `Matplotlib`, `LightGBM`, `EDA`
 * **Activity Area** : Business, Internet Services, Online Stores
-* **Technical Area**: `Machine Learning`
+* **Technical Area**: `Machine Learning` `Regression`
 
 [Project: Protection of clients' personal data](https://github.com/nirevexin/Data-Science-Professional-Training-Course/tree/main/Protection%20of%20clients'%20personal%20data)
 * **Description**: It is necessary to protect the data of clients of an insurance company by developing a method for transforming data so that it is difficult to recover personal information from it. 
 * **Goal**: Development of a model for anonymization of personal data.
 * **Tools**: `Python`, `NumPy`, `Pandas`, `Scikit-learn`
 * **Activity Area** : Banking, Investments, Internet Services, Telecom
-* **Technical Area**: `Machine Learning`
+* **Technical Area**: `Machine Learning` `Linear Algebra`
 
 [Project: Comparison of users of a music streaming service of two cities](https://github.com/nirevexin/Data-Science-Professional-Training-Course/tree/main/Comparison%20of%20users%20of%20a%20music%20streaming%20service%20between%20two%20cities)
 * **Description**: Using real Yandex.Music data to compare the behavior and preferences of users in two capitals - Moscow and St. Petersburg.
