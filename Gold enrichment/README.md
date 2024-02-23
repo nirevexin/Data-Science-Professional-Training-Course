@@ -38,7 +38,7 @@ It is necessary to predict two quantities at once:
 - final concentrate enrichment efficiency `final.output.recovery`.
 
 ### Results:
-During the implementation of this project the following was carried out:
+**During the implementation of this project the following was carried out**:
 
 - A SweetViz report was created.
 - The missing values were filled, duplicates and data types were checked and propered.
@@ -69,7 +69,7 @@ During the implementation of this project the following was carried out:
       -  2. `RandomForestRegressor(max_depth=2, n_estimators=10) with sMAPE = 10.62`
 - All of the seleceted best models were tested on the test sample and the DecisionTreeRegressor(max_depth=1) turned out to be the adequate for both stages, although with a sMAPE just minimally better than the random model's.
 
-Summary:
+**Summary**:
 
 The models that turned out to be the best are just slightly better than a random model; this might be due to the data nature itself:
 - our `best model's sMAPE 9.03` vs. `9.16 of a random model's sMAPE` on `flotation stage`
