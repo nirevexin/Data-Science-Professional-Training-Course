@@ -28,6 +28,15 @@ The rough concentrate undergoes two purifications. The output is a final concent
 - fluid levels - fluid level
 - feed size - size of raw material granules
 - feed rate - feed speed
+
+#### Quality Metric
+sMAPE (Symmetric Mean Absolute Percentage Error)
+
+#### Prediction Target
+It is necessary to predict two quantities at once:
+- efficiency of rough concentrate enrichment `rougher.output.recovery`;
+- final concentrate enrichment efficiency `final.output.recovery`.
+
 ### Results:
 During the implementation of this project the following was carried out:
 
