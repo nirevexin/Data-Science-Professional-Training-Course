@@ -2,16 +2,18 @@
 ## Results:
 During the implementation of this project the following was carried out:
 
+- A SweetViz report was created.
+- The missing values were filled, duplicates and data types were checked
 - The correct calculation of enrichment efficiency was verified.
-
 - Missing columns were installed into data_test.
-
-- Analysis of changes in the metal concentration between cleaning phases was done.
-
+- Analysis of changes in the metal concentration between cleaning phases was done:
+        - The concentration of gold increases at each stage.
+        - After flotation, the concentration of all metals increases.
+        - After the first stage of purification, the concentration of silver decreases, and the concentration of lead continues to increase.
+        - After the second stage of purification, we can see that the concentration of silver continued to decrease, but the concentration of lead remained the same.
+- The size of the feedstock granules at the flotation stage between the training sample and the testing sample was statistically compared: low probability to be different, so the model assessment should be normal.
 - A function to calculate sMAPE was created.
-
 - Feature dimensionality was reduced via UMAP for better predicting performance.
-
 - Considering the nature of the data, several predicting models were created (Ridge Reg., Random Forest Reg., Decision Tree Reg. and LGBM) and the two best models for each, flotation and final stage, were selected:
 
     - Flotation stage:
