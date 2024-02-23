@@ -1,5 +1,5 @@
-### Goal: create a ML model to predict the gold recovery rate from a gold ore
-### Process description and Data
+### Project goal: create a ML model to predict the gold recovery rate from a gold ore
+### Process description & Data
 Description of each stage:
 - 1 **Flotation**
      
