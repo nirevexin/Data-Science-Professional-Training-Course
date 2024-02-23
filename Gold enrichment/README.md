@@ -14,10 +14,10 @@ During the implementation of this project the following was carried out:
 
 - Considering the nature of the data, several predicting models were created (Ridge Reg., Random Forest Reg., Decision Tree Reg. and LGBM) and the two best models for each, flotation and final stage, were selected:
 
-  - Flotation stage:
+    - Flotation stage:
 1. `Ridge(alpha=0.8) with sMAPE = 8.30`
 2. `DecisionTreeRegressor(max_depth=1) with sMAPE = 8.39`
-  - Final stage:
+    - Final stage:
 1. `DecisionTreeRegressor(max_depth=1) with sMAPE = 10.54`
 2. `RandomForestRegressor(max_depth=2, n_estimators=10) with sMAPE = 10.62`
 - All of the seleceted best models were tested on the test sample and the DecisionTreeRegressor(max_depth=1) turned out to be the adequate for both stages, although with a sMAPE just minimally better than the random model's.
@@ -28,4 +28,4 @@ The models that turned out to be the best are just slightly better than a random
 - our `best model's sMAPE 9.03` vs. `9.16 of a random model's sMAPE` on `flotation stage`
 - our `best model's sMAPE 9.73` vs. `9.94 of a random model's sMAPE` on the `final stage`
 - `our concluding sMAPE 9.55` vs. `9.75 of a random model's concluding sMAPE`
-Although there turned out to be an adequate model for each phase in the testing, this cannot guarantee that they will be adequate once implemented in production, since, for instance, during the training phase, the best model for the flotation phase later gave worse results than the random model on the testing sample. It really depends on the data in question to be predicted, and given the nature of the data, it is unlikely that better results can be obtained.
+- Although there turned out to be an adequate model for each phase in the testing, this cannot guarantee that they will be adequate once implemented in production, since, for instance, during the training phase, the best model for the flotation phase later gave worse results than the random model on the testing sample. It really depends on the data in question to be predicted, and given the nature of the data, it is unlikely that better results can be obtained.
