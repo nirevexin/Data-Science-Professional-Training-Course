@@ -9,7 +9,7 @@ Below is an overview of the projects:
 ## Data Science Professional Course Projects:
 
 [Project: Determining Real Estate market value](https://github.com/nirevexin/Data-Science-Professional-Training-Course/tree/main/Analysis%20of%20apartments%20for%20sale%20advertisements)
-* **Description**: At our disposal is data from the Yandex Real Estate service - an archive of advertisements for the sale of apartments in St. Petersburg and neighboring settlements for several years. We're asked to learn how to determine the market value of real estate.
+* **Description**: At our disposal is data from the Yandex Real Estate service - an archive of advertisements for the sale of apartments in St. Petersburg and neighboring settlements for several years. We need  to learn how to determine the market value of Real Estate.
 * **Goal**: Determining the market value of real estate properties and typical apartment parameters.
 * **Tools**: `Python`,  `Pandas`, `Matplotlib`, `Seaborn`, `EDA` , `Data Visualization`
 * **Activity Area** : Ad Platforms, Internet Services 
