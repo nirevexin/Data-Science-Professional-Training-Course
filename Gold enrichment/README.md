@@ -3,7 +3,7 @@
 During the implementation of this project the following was carried out:
 
 - A SweetViz report was created.
-- The missing values were filled, duplicates and data types were checked
+- The missing values were filled, duplicates and data types were checked and propered.
 - The correct calculation of enrichment efficiency was verified.
 - Missing columns were installed into data_test.
 - Analysis of changes in the metal concentration (Au, Ag, Pb) between cleaning phases (in the raw material, in the rough concentrate, in the concentrate after the first cleaning and in the final concentrate) was done:
