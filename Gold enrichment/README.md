@@ -62,11 +62,11 @@ It is necessary to predict two quantities at once:
 - Considering the nature of the data, several predicting models were created (Ridge Reg., Random Forest Reg., Decision Tree Reg. and LGBM) and the two best models for each, flotation and final stage, were selected:
 
     - Flotation stage:
-      -  1. `Ridge(alpha=0.8) with sMAPE = 8.30`
-      -  2. `DecisionTreeRegressor(max_depth=1) with sMAPE = 8.39`
+      -  1 `Ridge(alpha=0.8) with sMAPE = 8.30`
+      -  2 `DecisionTreeRegressor(max_depth=1) with sMAPE = 8.39`
     - Final stage:
-      -  1. `DecisionTreeRegressor(max_depth=1) with sMAPE = 10.54`
-      -  2. `RandomForestRegressor(max_depth=2, n_estimators=10) with sMAPE = 10.62`
+      -  1 `DecisionTreeRegressor(max_depth=1) with sMAPE = 10.54`
+      -  2 `RandomForestRegressor(max_depth=2, n_estimators=10) with sMAPE = 10.62`
 - All of the seleceted best models were tested on the test sample and the DecisionTreeRegressor(max_depth=1) turned out to be the adequate for both stages, although with a sMAPE just minimally better than the random model's.
 
 **Summary**:
