@@ -43,7 +43,7 @@ It is necessary to predict two quantities at once:
 - A SweetViz report was created.
 - The missing values were filled, duplicates and data types were checked and propered.
 - The correct calculation of enrichment efficiency was verified.
-- Missing columns were installed into data_test.
+- Missing columns were installed into data_test (testing dataset).
 - Analysis of changes in the metal concentration (Au, Ag, Pb) between cleaning phases (in the raw material, in the rough concentrate, in the concentrate after the first cleaning and in the final concentrate) was done:
   - The concentration of gold increases at each stage.
   - After flotation, the concentration of all metals increases.
