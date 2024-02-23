@@ -1,6 +1,6 @@
 ### Goal: create a ML model to predict the gold recovery rate from a gold ore
 ### Process description and Data
-Let's describe each stage:
+Description of each stage:
 - 1 **Flotation**
      
 A mixture of gold ore is fed into the flotation unit. After enrichment, a rough concentrate and “waste tailings” are obtained, that is, the remains of a product with a low concentration of valuable metals.
