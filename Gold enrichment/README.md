@@ -11,6 +11,7 @@ A ML model is being built for an industrial company that develops solutions for 
 `Data Analysis`, `Machine Learning`, `Regression`
 
 * **Process description & Data**:
+  
 Description of each stage:
 - 1 **Flotation**
      
