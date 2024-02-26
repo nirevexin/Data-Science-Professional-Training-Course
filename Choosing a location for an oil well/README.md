@@ -1,14 +1,25 @@
 ## Project: Choosing a location for an oil well
-### Description: 
+* **Description**: 
 We have been provided with oil samples from three regions in order to build a ML model to determine the region where mining will bring the greatest profit.
-### Goal: 
+* **Goal**: 
 Based on exploration data from geologists, selecting from three regions, one in which oil production will bring the greatest profit.
-### Stack:
+* **Stack**:
 `Bootstrap`, `Python`, `NumPy`, `Pandas`, `Scikit-learn`
-### Activity Area:
+* **Activity Area**:
 `Mining Companies`
-### Technical Area: 
+* **Technical Area**: 
 `Machine Learning`, `Financial analysis`, `Regression`, `Business model development`
+* **Data**:
+Geological exploration data for three regions is in the following files:
+- geo_data_0.csv
+- geo_data_1.csv
+- geo_data_2.csv
+
+Each contains the following columns:
+- id — unique identifier of the well;
+- f0, f1, f2 - three signs of points (it doesn’t matter what they mean, but the signs themselves are significant);
+- product — volume of reserves in the well (thousand barrels).
+
 ### Results:
 
 - Regression models were trained to predict oil reserves. Prediction accuracy varies across regions;
