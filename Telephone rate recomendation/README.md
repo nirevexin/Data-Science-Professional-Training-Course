@@ -2,7 +2,7 @@
 * **Description**: A mobile operator has found out that many customers use archived tariffs. They want to build a system that can analyze customer behavior and offer users one of the new tariffs.
 * **Goal**: Offering clients the most appropriate rate for them.
 * **Stack**: `Python`,  `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-learn`
-* **Activity Area** : Telecoms
+* **Activity Area** : `Telecoms`
 * **Technical Area**: `Machine Learning`, `Classification`
 
 * **Metrics requirements**:
