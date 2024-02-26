@@ -13,7 +13,8 @@ The data consists of several files obtained from different sources:
 - data_temp_new.csv — temperature measurement results;
 - data_wire_new.csv — data on wire materials (volume);
 - data_wire_time_new.csv - data about wire materials (time).
-  
+
+
 - File data_arc_new.csv
   - key — batch number;
   - Start of arc heating—heating start time;
