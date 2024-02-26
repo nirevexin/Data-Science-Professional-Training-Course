@@ -1,15 +1,11 @@
 ## Project: Determining Real Estate market value
-### Goal: 
-Determining the market value of real estate properties and typical apartment parameters.
-### Desription:
-At our disposal is data from the Yandex Real Estate service - an archive of advertisements for the sale of apartments in St. Petersburg and neighboring settlements for several years. We need to learn how to determine the market value of Real Estate.
-### Stack:
+* **Goal**: Determining the market value of real estate properties and typical apartment parameters.
+* **Desription**: At our disposal is data from the Yandex Real Estate service - an archive of advertisements for the sale of apartments in St. Petersburg and neighboring settlements for several years. We need to learn how to determine the market value of Real Estate.
+* **Stack**:
 `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `EDA` , `Data Visualization`
-### Activity Area : 
-`Ad Platforms`, `Internet Services`
-### Technical Area: 
-`Data Analysis`, `Marketing Analysis`, `Fraud Analysis`
-### Data:
+* **Activity Area**: `Ad Platforms`, `Internet Services`
+* **Technical Area**: `Data Analysis`, `Marketing Analysis`, `Fraud Analysis`
+* **Data**:
 - airports_nearest — distance to the nearest airport in meters (m)
 - balcony — number of balconies
 - ceiling_height — ceiling height (m)
