@@ -1,8 +1,17 @@
-## Project goal: Determining the musical preferences of users and the differences between the two cities by studying three hypothesis:
+## Project: Comparison of users of a music streaming service of two cities
+### Goal: 
+Determining the musical preferences of users and the differences between the two cities by studying three hypothesis:
 #### Hypotheses 1: User activity depends on the day of the week. Moreover, in Moscow and St. Petersburg this manifests itself in different ways.
 #### Hypotheses 2: on Monday morning some genres prevail in Moscow and others in St. Petersburg. Likewise, on Friday evenings, different genres predominate, depending on the city.
 #### Hypothesis 3: St. Petersburg is the capital of rap, music of this genre is listened to more often there than in Moscow. And Moscow is a city of contrasts, in which, nevertheless, pop music prevails.
-**Results:**
+### Stack: 
+`Python`, `Pandas`, `Matplotlib`
+### Activity Area:
+`Streaming Services`, `Internet Services`
+### Technical Area: 
+`Data Analysis`
+
+### Results:
 - We have tested the three hypotheses and found:
 
   - The days of the week affect user activity differently in Moscow and St. Petersburg.
