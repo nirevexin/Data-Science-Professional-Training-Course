@@ -1,5 +1,5 @@
 ## Project: Predicting the final temperature of a steel alloy
-## Goal: 
+### Goal: 
 Develop a ML model that will predict the final temperature of a steel alloy.
 ### Description:
 In order to optimize production costs, a metallurgical plant decided to reduce energy consumption at the steel processing stage. To do this, the plant needs to control the temperature of the alloy. The customer wants to use our developed ML model to simulate the technological process.
