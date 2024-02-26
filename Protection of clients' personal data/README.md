@@ -1,5 +1,3 @@
-## Project goal: Development of a model for anonymization of personal data.
-
 ## Project: Protection of clients' personal data
 
 ### Description: 
