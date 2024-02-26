@@ -5,18 +5,18 @@
 * **Activity Area** : Banking, Crediting
 * **Technical Area**: `Data Analysis`
 *  **Data**:
-  - children — number of children in the family
-  - days_employed — total length of service in days
-  - dob_years — client age in years
-  - education — client’s education level
-  - education_id — education level identifier
-  - family_status - marital status
-  - family_status_id — marital status identifier
-  - gender - client gender
-  - income_type — employment type
-  - debt - whether there was a debt to repay loans
-  - total_income - monthly income
-  - purpose — purpose of obtaining a loan
+    - children — number of children in the family
+    - days_employed — total length of service in days
+    - dob_years — client age in years
+    - education — client’s education level
+    - education_id — education level identifier
+    - family_status - marital status
+    - family_status_id — marital status identifier
+    - gender - client gender
+    - income_type — employment type
+    - debt - whether there was a debt to repay loans
+    - total_income - monthly income
+    - purpose — purpose of obtaining a loan
 
 ### Results:
 
