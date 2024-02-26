@@ -1,4 +1,10 @@
-## Project goal: Develop a classification system to offer clients the most appropriate phone rate for them.
+## Project: Telephone rate recommendation
+* **Description**: A mobile operator has found out that many customers use archived tariffs. They want to build a system that can analyze customer behavior and offer users one of the new tariffs.
+* **Goal**: Offering clients the most appropriate rate for them.
+* **Tools**: `Python`,  `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-learn`
+* **Activity Area** : Telecoms
+* **Technical Area**: `Machine Learning`, `Classification`
+* 
 ### Results:
 
 - We have visually examined the distribution of both "Smart" and "Ultra" rates in terms of minutes, calls, messages and MB consumed.
