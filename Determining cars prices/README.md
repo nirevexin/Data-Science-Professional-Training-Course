@@ -1,14 +1,31 @@
 ## Project: Determining cars prices
-### Description: 
+* **Description**: 
 A service for selling used cars is developing an application to attract new customers. Through this app, they can quickly find out the market value of their car. Based on historical data, it is necessary to build a model that will determine a car's price.
-### Goal: 
+* **Goal**: 
 Development of a system for recommending a price for a car based on its description.
-### Stack:
+* **Stack**:
 `Python`, `Pandas`, `Scikit-learn`, `Seaborn`, `Matplotlib`, `LightGBM`, `EDA`
-### Activity Area: 
+* **Activity Area**: 
 `Business`, `Internet Services`, `Online Stores`
-### Technical Area:
+* **Technical Area**:
 `Machine Learning`, `Regression`
+* **Data**:
+    - DateCrawled — date the profile was downloaded from the database
+    - VehicleType - car body type
+    - RegistrationYear—year of vehicle registration
+    - Gearbox - gearbox type
+    - Power - power (hp)
+    - Model - car model
+    - Kilometer - mileage (km)
+    - RegistrationMonth — month of vehicle registration
+    - FuelType - fuel type
+    - Brand - car brand
+    - Repaired - whether the car was repaired or not
+    - DateCreated — date of creation of the questionnaire
+    - NumberOfPictures — number of photos of the car
+    - PostalCode — postal code of the profile owner (user)
+    - LastSeen - date of last user activity 
+    - Price - price (euros)
 
 ### Results:
 
