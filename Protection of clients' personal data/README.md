@@ -11,7 +11,7 @@ Development of a model for anonymization of personal data.
 * **Technical Area**:
 `Machine Learning`, `Linear Algebra`
 * **Data**:
-  - The dataset contains the following features:
+- The dataset contains the following features:
   - gender
   - age
   - salary of the insured
