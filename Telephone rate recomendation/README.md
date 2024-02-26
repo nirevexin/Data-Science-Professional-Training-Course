@@ -6,7 +6,7 @@
 * **Technical Area**: `Machine Learning`, `Classification`
 
 * **Metrics requirements**:
- - Accuracy > 0'75
+  - Accuracy > 0'75
 *  **Data**:
     - calls — number of calls,
     - minutes — total duration of calls in minutes,
