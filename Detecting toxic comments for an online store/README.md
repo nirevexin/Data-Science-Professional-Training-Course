@@ -1,5 +1,15 @@
-## Project goal: Creating a ML model for determination of comments toxicity.
-**Results**:
+## Project: Detecting toxic comments for Wikishop online store
+### Description:
+An online store launches a new service. Now users can edit and add product descriptions, just like in wiki communities. That is, customers suggest their edits and comment on the changes of others. We need a tool that will look for toxic comments and send them for moderation.
+### Goal:
+Creating a ML model for determination of comments toxicity.
+### Stack:
+`Pandas`, `Python`, `nltk`, `tf-idf`, `Word2vec`, `tqdm`, `Scikit-learn`
+### Activity Area:
+`Internet Services`, `Start-Ups`
+### Technical Area:
+`NLP`, `Machine Learning`, `Classification`
+### Results:
 
 - We have created a corpus of texts for analysis.
 - We cleaned the corpus of signs, stop words, etc., and also lemmatized the corpus texts.
