@@ -1,6 +1,14 @@
-
-## Project goal: Identifying the patterns that determine a videogame sales success.
-
+## Project: Determining patterns of videogames sales success
+### Description: 
+An online videogames store, which sells computer games all over the world, needs to identify patterns that determine a videogame success. This will allow them to place a bet on a potentially popular product and plan advertising campaigns.
+### Goal: 
+Identifying the patterns that determine a videogame sales success. 
+### Stack: 
+`Pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Seaborn`, `Statistical Hypothesis Testing`, `Descriptive Statistics`, `Exploratory Data Analysis`
+### Activity Area:
+`Online Stores`, `Business`
+### Technical Area:
+`Data Analysis`, `Marketing Analysis`, `Product Analysis`
 ### Results:
 
 - On average, gaming platforms are supported by developers for 4-5 years.
