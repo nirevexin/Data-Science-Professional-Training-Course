@@ -1,15 +1,15 @@
 ## Project: Predicting the final temperature of a steel alloy
-### Description:
+* **Description**:
 In order to optimize production costs, a metallurgical plant decided to reduce energy consumption at the steel processing stage. To do this, the plant needs to control the temperature of the alloy. The customer wants to use our developed ML model to simulate the technological process.
-### Goal: 
+* **Goal**: 
 Develop a ML model that will predict the final temperature of a steel alloy.
-### Stack: 
+* **Stack**: 
 `Python`, `Scikit-learn`, `LightGBM`, `NumPy`, `CatBoost`, `Pandas`, `Matplotlib`, `Seaborn`, `Exploratory Data Analysis`
-### Activity Area :
+* **Activity Area**:
 `Industry`, `Metallurgy`
-### Technical Area:
+* **Technical Area**:
 `Data Analysis`, `Machine Learning`, `Regression`
-### Data:
+* **Data**:
 The data consists of several files obtained from different sources:
 - data_arc_new.csv — data about electrodes;
 - data_bulk_new.csv — data on the supply of bulk materials (volume);
