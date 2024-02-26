@@ -10,6 +10,7 @@ Develop a ML model that will predict the final temperature of a steel alloy.
 * **Technical Area**:
 `Data Analysis`, `Machine Learning`, `Regression`
 * **Data**:
+  
     The data consists of several files obtained from different sources:
     - data_arc_new.csv — data about electrodes;
     - data_bulk_new.csv — data on the supply of bulk materials (volume);
