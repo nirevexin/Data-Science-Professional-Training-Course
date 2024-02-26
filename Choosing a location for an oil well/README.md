@@ -1,6 +1,15 @@
-## Project goal: to select from three regions one in which oil production will bring the greatest profit.
-
-**Results**:
+## Project: Choosing a location for an oil well
+### Description: 
+We have been provided with oil samples from three regions in order to build a ML model to determine the region where mining will bring the greatest profit.
+### Goal: 
+Based on exploration data from geologists, selecting from three regions, one in which oil production will bring the greatest profit.
+### Stack:
+`Bootstrap`, `Python`, `NumPy`, `Pandas`, `Scikit-learn`
+### Activity Area:
+`Mining Companies`
+### Technical Area: 
+`Machine Learning`, `Financial analysis`, `Regression`, `Business model development`
+### Results:
 
 - Regression models were trained to predict oil reserves. Prediction accuracy varies across regions;
 - The potential profit from the selection of wells based on the model solution was calculated;
