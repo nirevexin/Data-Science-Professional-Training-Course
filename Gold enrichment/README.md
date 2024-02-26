@@ -4,7 +4,7 @@ Create a ML model to predict the gold recovery rate from a gold ore
 ### Description:
 A ML model is being built for an industrial company that develops solutions for the efficient operation of industrial enterprises. The model must predict the recovery rate of gold from gold ore based on data with mining and refining parameters. The model will help optimize production so as not to launch an enterprise with unprofitable characteristics.
 ### Stack: 
-`Python`, `Scikit-learn`, `LightGBM`, `NumPy`, `CatBoost`, `Pandas`, `Matplotlib`, `Seaborn`, `Exploratory Data Analysis`
+`Python`, `Scikit-learn`, `LightGBM`, `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Exploratory Data Analysis`, `Optuna`, `UMAP`, `SciPy.stats`
 ### Activity Area :
 `Industry`, `Metallurgy`
 ### Technical Area:
