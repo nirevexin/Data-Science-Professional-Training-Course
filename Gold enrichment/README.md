@@ -10,7 +10,7 @@ A ML model is being built for an industrial company that develops solutions for 
 * **Technical Area**:
 `Data Analysis`, `Machine Learning`, `Regression`
 
-* **Process description & Data**:
+* **Process description**:
   
   - Description of each stage:
     - 1 **Flotation**
@@ -22,7 +22,7 @@ A ML model is being built for an industrial company that develops solutions for 
          
     The rough concentrate undergoes two purifications. The output is a final concentrate and new tailings.
 
-#### Data Description
+* **Data**:
 ##### Technological process
 - Rougher feed - feedstock
 - Rougher additions (or reagent additions) - flotation reagents: Xanthate, Sulphate, Depressant
