@@ -1,6 +1,13 @@
 # Project goal: Determine the factors that affect the non-repayment of the credit on time.
 
-**Results**:
+## Project: Borrowers reliability research
+* **Description**: The client is a bank's credit department. It is necessary to understand whether the client’s marital status and the number of children affect the fact of repaying the loan on time. The results of the study will be taken into account when constructing a credit scoring model - a special system that assesses the ability of a potential borrower to repay the loan to the bank.
+* **Goal**: Determine the factors that affect the non-repayment of the credit on time.
+* **Tools**: `Python`, `Pandas`, `Seaborn`, `Matplotlib`, `Data Preprocessing`
+* **Activity Area** : Banking, Crediting
+* **Technical Area**: `Data Analysis`
+
+### Results:
 
 - People with no children are the best at repaying loans. The share of debtors here is 7.54%. The situation is worse with debtors who have one or two children, the share of non-repayment is 9.23% and 9.45% here, respectively.
 
