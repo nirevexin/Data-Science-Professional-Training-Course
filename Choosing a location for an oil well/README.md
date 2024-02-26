@@ -10,15 +10,15 @@ Based on exploration data from geologists, selecting from three regions, one in 
 * **Technical Area**: 
 `Machine Learning`, `Financial analysis`, `Regression`, `Business model development`
 * **Data**:
-Geological exploration data for three regions is in the following files:
-- geo_data_0.csv
-- geo_data_1.csv
-- geo_data_2.csv
+- Geological exploration data for three regions is in the following files:
+    - geo_data_0.csv
+    - geo_data_1.csv
+    - geo_data_2.csv
 
-Each contains the following columns:
-- id — unique identifier of the well;
-- f0, f1, f2 - three signs of points (it doesn’t matter what they mean, but the signs themselves are significant);
-- product — volume of reserves in the well (thousand barrels).
+- Each contains the following columns:
+    - id — unique identifier of the well;
+    - f0, f1, f2 - three signs of points (it doesn’t matter what they mean, but the signs themselves are significant);
+    - product — volume of reserves in the well (thousand barrels).
 
 ### Results:
 
