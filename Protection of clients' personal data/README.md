@@ -11,12 +11,12 @@ Development of a model for anonymization of personal data.
 * **Technical Area**:
 `Machine Learning`, `Linear Algebra`
 * **Data**:
-- The dataset contains the following features:
-  - gender
-  - age
-  - salary of the insured
-  - number of family members.
-  - number of insurance payments to the client over the last 5 years.
+  - The dataset contains the following features:
+    - gender
+    - age
+    - salary of the insured
+    - number of family members.
+    - number of insurance payments to the client over the last 5 years.
 ### Results:
 - We have found an encryption algorithm to encrypt customer data.
 
