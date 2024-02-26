@@ -8,7 +8,7 @@ Conducting a study to create a neural network that will help determine the age o
 * **Activity Area**:
 `Offline`, `Business`
 * **Technical Area**:
-`Computer Vision (CV)`, `Machine Learning`, `Neural Network` `Regression`
+`Computer Vision (CV)`, `Machine Learning`, `Neural Network`, `Regression`
 ### Results:
 - A Neural Network model was created and trained, for which it is possible to obtain a metric value of at least MAE = 6.68 in the test sample, which is lower than the value required by the condition (MAE = 8).
 - The Bread-Salt supermarket chain can use the resulting model as a computer system for processing customer photos.
