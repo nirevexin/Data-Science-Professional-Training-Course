@@ -12,15 +12,15 @@ A ML model is being built for an industrial company that develops solutions for 
 
 * **Process description & Data**:
   
-Description of each stage:
-- 1 **Flotation**
-     
-A mixture of gold ore is fed into the flotation unit. After enrichment, a rough concentrate and “waste tailings” are obtained, that is, the remains of a product with a low concentration of valuable metals.
-The stability of this process is affected by the inconsistent and suboptimal physicochemical state of the flotation pulp (a mixture of solid particles and liquid).
-
-- 2 **Cleaning**
-     
-The rough concentrate undergoes two purifications. The output is a final concentrate and new tailings.
+- Description of each stage:
+  - 1 **Flotation**
+       
+  A mixture of gold ore is fed into the flotation unit. After enrichment, a rough concentrate and “waste tailings” are obtained, that is, the remains of a product with a low concentration of valuable metals.
+  The stability of this process is affected by the inconsistent and suboptimal physicochemical state of the flotation pulp (a mixture of solid particles and liquid).
+  
+  - 2 **Cleaning**
+       
+  The rough concentrate undergoes two purifications. The output is a final concentrate and new tailings.
 
 #### Data Description
 ##### Technological process
