@@ -10,7 +10,7 @@ Creating a ML model for determination of comments toxicity.
 * **Technical Area**:
 `NLP`, `Machine Learning`, `Classification`
 * **Data**:
-- The `text` column in it contains the comment text, and `toxic` is the target attribute.
+  - The `text` column in it contains the comment text, and `toxic` is the target attribute.
 ### Results:
 
 - We have created a corpus of texts for analysis.
