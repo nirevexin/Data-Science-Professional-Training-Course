@@ -1,16 +1,16 @@
 ## Project: Gold enrichment
-### Goal: 
+* **Goal**: 
 Create a ML model to predict the gold recovery rate from a gold ore
-### Description:
+* **Description**:
 A ML model is being built for an industrial company that develops solutions for the efficient operation of industrial enterprises. The model must predict the recovery rate of gold from gold ore based on data with mining and refining parameters. The model will help optimize production so as not to launch an enterprise with unprofitable characteristics.
-### Stack: 
+* **Stack**: 
 `Python`, `Scikit-learn`, `LightGBM`, `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Exploratory Data Analysis`, `Optuna`, `UMAP`, `SciPy.stats`
-### Activity Area :
+* **Activity Area** :
 `Industry`, `Metallurgy`
-### Technical Area:
+* **Technical Area**:
 `Data Analysis`, `Machine Learning`, `Regression`
 
-### Process description & Data
+* **Process description & Data**:
 Description of each stage:
 - 1 **Flotation**
      
