@@ -3,7 +3,8 @@
 A chain supermarket is implementing a computer vision system to process customer photos. Photo recording in the checkout area will help determine the age of customers in order to analyze purchases and offer products that may be of interest to buyers of this age group and monitor the integrity of cashiers when selling alcohol.
 ### Goal:
 Conducting a study to create a neural network that will help determine the age of a person from photographs.
-### Stack: `Python`, `Keras`
+### Stack: 
+`Python`, `Keras`
 ### Activity Area:
 `Offline`, `Business`
 ### Technical Area:
