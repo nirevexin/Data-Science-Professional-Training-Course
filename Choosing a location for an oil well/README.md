@@ -10,17 +10,17 @@ Based on exploration data from geologists, selecting from three regions, one in 
 * **Technical Area**: 
 `Machine Learning`, `Financial analysis`, `Regression`, `Business model development`
 * **Data**:
-- Geological exploration data for three regions is in the following files:
-    - geo_data_0.csv
-    - geo_data_1.csv
-    - geo_data_2.csv
-
-- Each contains the following columns:
-    - id — unique identifier of the well;
-    - f0, f1, f2 - three signs of points (it doesn’t matter what they mean, but the signs themselves are significant);
-    - product — volume of reserves in the well (thousand barrels).
-
-### Results:
+    - Geological exploration data for three regions is in the following files:
+        - geo_data_0.csv
+        - geo_data_1.csv
+        - geo_data_2.csv
+    
+    - Each contains the following columns:
+        - id — unique identifier of the well;
+        - f0, f1, f2 - three signs of points (it doesn’t matter what they mean, but the signs themselves are significant);
+        - product — volume of reserves in the well (thousand barrels).
+    
+    ### Results:
 
 - Regression models were trained to predict oil reserves. Prediction accuracy varies across regions;
 - The potential profit from the selection of wells based on the model solution was calculated;
