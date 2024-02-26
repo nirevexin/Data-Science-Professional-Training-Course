@@ -4,7 +4,7 @@
 * **Tools**: `Python`,  `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-learn`
 * **Activity Area** : Telecoms
 * **Technical Area**: `Machine Learning`, `Classification`
-* 
+  
 ### Results:
 
 - We have visually examined the distribution of both "Smart" and "Ultra" rates in terms of minutes, calls, messages and MB consumed.
