@@ -3,9 +3,9 @@
 Using real Yandex.Music data to compare the behavior and preferences of users in two capitals - Moscow and St. Petersburg.
 * **Goal**: 
 Determining the musical preferences of users and the differences between the two cities by studying three hypothesis:
-#### Hypotheses 1: User activity depends on the day of the week. Moreover, in Moscow and St. Petersburg this manifests itself in different ways.
-#### Hypotheses 2: on Monday morning some genres prevail in Moscow and others in St. Petersburg. Likewise, on Friday evenings, different genres predominate, depending on the city.
-#### Hypothesis 3: St. Petersburg is the capital of rap, music of this genre is listened to more often there than in Moscow. And Moscow is a city of contrasts, in which, nevertheless, pop music prevails.
+  - Hypotheses 1: User activity depends on the day of the week. Moreover, in Moscow and St. Petersburg this manifests itself in different ways.
+  - Hypotheses 2: on Monday morning some genres prevail in Moscow and others in St. Petersburg. Likewise, on Friday evenings, different genres predominate, depending on the city.
+  - Hypothesis 3: St. Petersburg is the capital of rap, music of this genre is listened to more often there than in Moscow. And Moscow is a city of contrasts, in which, nevertheless, pop music prevails.
 * **Stack**: 
 `Python`, `Pandas`, `Matplotlib`
 * **Activity Area**:
