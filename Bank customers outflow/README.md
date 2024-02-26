@@ -20,6 +20,8 @@
   - IsActiveMember - client activity
   - EstimatedSalary - estimated salary
   - Exited - the fact that the client has left
+* **Metric requirement**:
+- F1 > 0.59
 ### Results:
   - We trained several classifier models with a focus on identifying as many customers as possible who will actually churn.
   - The model that gives the most accurate predictions is selected.
