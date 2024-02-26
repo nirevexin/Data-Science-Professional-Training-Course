@@ -1,5 +1,3 @@
-# Project goal: Determine the factors that affect the non-repayment of the credit on time.
-
 ## Project: Borrowers reliability research
 * **Description**: The client is a bank's credit department. It is necessary to understand whether the client’s marital status and the number of children affect the fact of repaying the loan on time. The results of the study will be taken into account when constructing a credit scoring model - a special system that assesses the ability of a potential borrower to repay the loan to the bank.
 * **Goal**: Determine the factors that affect the non-repayment of the credit on time.
