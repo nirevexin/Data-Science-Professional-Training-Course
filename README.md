@@ -69,7 +69,7 @@ A chain supermarket is implementing a computer vision system to process customer
 * **Technical Area**: `Computer Vision`, `Machine Learning`, `Neural Network`
 
 [Project: Predicting the final temperature of a steel alloy](https://github.com/nirevexin/Data-Science-Professional-Training-Course/tree/main/Predicting%20the%20final%20temperature%20of%20a%20steel%20alloy)
-* **Description**: In order to optimize production costs, the "Steel Bird" metallurgical plant decided to reduce energy consumption at the steel processing stage. To do this, the plant needs to control the temperature of the alloy. The customer wants to use our developed ML model to simulate the technological process. 
+* **Description**: In order to optimize production costs, a metallurgical plant decided to reduce energy consumption at the steel processing stage. To do this, the plant needs to control the temperature of the alloy. The customer wants to use our developed ML model to simulate the technological process. 
 * **Goal**: Develop a ML model that will predict the final temperature of a steel alloy.
 * **Tools**: `Python`, `Scikit-learn`, `LightGBM` , `NumPy` , `CatBoost`, `Pandas`, `Matplotlib`, `Seaborn`, `Exploratory Data Analysis`
 * **Activity Area** : Industry, Metallurgy
