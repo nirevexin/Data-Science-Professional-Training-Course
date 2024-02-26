@@ -48,6 +48,12 @@ The data consists of several files obtained from different sources:
     - Wire 1 ... Wire 15 - time for feeding wire materials.
   
 In all files, the key column contains the batch number. There may be several lines in the files with the same key value: they correspond to different iterations of processing.
+
+### Description of the industrial process:
+The steel is processed in a metal ladle with a capacity of about 100 tons. To ensure that the ladle can withstand high temperatures, the inside is lined with refractory bricks. Molten steel is poured into a ladle and heated to the desired temperature with graphite electrodes. They are installed in the bucket lid.
+Sulfur is removed from the alloy, the chemical composition is adjusted by adding impurities, and samples are taken. The steel is alloyed - its composition is changed - by feeding pieces of the alloy from a bunker for bulk materials or wire through a special tribe apparatus.
+Before introducing alloying additives for the first time, the temperature of the steel is measured and its chemical analysis is performed. Then the temperature is raised for several minutes, alloying materials are added and the alloy is purged with an inert gas. Then it is mixed and measurements are taken again. This cycle is repeated until the target chemical composition and optimal melting temperature are achieved.
+Then the molten steel is sent for finishing of the metal or enters a continuous casting machine. From there, the finished product comes out in the form of slabs.
 ### Results:
 - Data on temperature, gas volume, sand material volume, wire material volume, active and reactive power were analyzed, filtered and cleaned.
 - The data was collected into a common dataframe, analyzed and cleaned.
