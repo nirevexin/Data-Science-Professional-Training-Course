@@ -5,7 +5,7 @@
 * **Activity Area** : Business, Internet Services, Start-ups
 * **Technical Area**: `Time Series`, `Machine Learning` `Regression`
 * **Data**:
-  - The number of orders is in the `num_orders` column. The other column belongs to the order date. 
+  - The number of orders is in the 'num_orders' column. The other column belongs to the order date. 
   
 ### Results:
 - Trends and seasonality were analyzed and several models were created to predict future orders in hourly intervals. 
