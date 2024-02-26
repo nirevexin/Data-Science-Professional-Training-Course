@@ -6,14 +6,14 @@
 * **Technical Area**: `Machine Learning`, `Classification`
 
 * **Metrics requirements**:
-* Accuracy > 0'75
+* - Accuracy > 0'75
 *  **Data**:
-  - calls — number of calls,
-  - minutes — total duration of calls in minutes,
-  - messages — number of SMS messages,
-  - mb_used — consumed Internet traffic in MB,
-  - is_ultra — what tariff the client uses during the month (“Ultra” - 1, “Smart” - 0).
-  
+    - calls — number of calls,
+    - minutes — total duration of calls in minutes,
+    - messages — number of SMS messages,
+    - mb_used — consumed Internet traffic in MB,
+    - is_ultra — what tariff the client uses during the month (“Ultra” - 1, “Smart” - 0).
+    
 ### Results:
 
 - We have visually examined the distribution of both  Smart` and `Ultra` rates in terms of minutes, calls, messages and MB consumed.
