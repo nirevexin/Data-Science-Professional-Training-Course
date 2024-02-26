@@ -1,4 +1,16 @@
 ## Project goal: Development of a system for recommending a price for a car based on its description.
+## Project: Determining cars prices
+
+### Description: 
+A service for selling used cars is developing an application to attract new customers. Through this app, they can quickly find out the market value of their car. Based on historical data, it is necessary to build a model that will determine a car's price.
+### Goal: 
+Development of a system for recommending a price for a car based on its description.
+### Stack:
+`Python`, `Pandas`, `Scikit-learn`, `Seaborn`, `Matplotlib`, `LightGBM`, `EDA`
+### Activity Area: 
+`Business`, `Internet Services`, `Online Stores`
+### Technical Area:
+`Machine Learning`, `Regression`
 
 ### Results:
 
