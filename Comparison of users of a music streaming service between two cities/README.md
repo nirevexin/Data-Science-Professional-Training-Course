@@ -1,4 +1,6 @@
 ## Project: Comparison of users of a music streaming service of two cities
+### Description: 
+Using real Yandex.Music data to compare the behavior and preferences of users in two capitals - Moscow and St. Petersburg.
 ### Goal: 
 Determining the musical preferences of users and the differences between the two cities by studying three hypothesis:
 #### Hypotheses 1: User activity depends on the day of the week. Moreover, in Moscow and St. Petersburg this manifests itself in different ways.
