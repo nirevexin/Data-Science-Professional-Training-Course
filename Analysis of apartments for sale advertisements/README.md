@@ -1,8 +1,43 @@
-# Project goal: Determining the market value of real estate properties and typical apartment parameters.
+## Project: Determining Real Estate market value
+### Goal: 
+Determining the market value of real estate properties and typical apartment parameters.
+### Desription:
+At our disposal is data from the Yandex Real Estate service - an archive of advertisements for the sale of apartments in St. Petersburg and neighboring settlements for several years. We need to learn how to determine the market value of Real Estate.
+### Stack:
+`Python`, `Pandas`, `Matplotlib`, `Seaborn`, `EDA` , `Data Visualization`
+### Activity Area : 
+`Ad Platforms`, `Internet Services`
+### Technical Area: 
+`Data Analysis`, `Marketing Analysis`, `Fraud Analysis`
+### Data:
+- airports_nearest — distance to the nearest airport in meters (m)
+- balcony — number of balconies
+- ceiling_height — ceiling height (m)
+- cityCenters_nearest — distance to the city center (m)
+- days_exposition - how many days the ad was posted (from publication to removal)
+- first_day_exposition — publication date
+- floor - floor
+- floors_total - total floors in the house
+- is_apartment - apartments (boolean type)
+- kitchen_area - kitchen area in square meters (m²)
+- last_price — price at the time of removal from publication
+- living_area - living area in square meters (m²)
+- locality_name — name of the locality
+- open_plan - open plan (boolean type)
+- parks_around3000 — number of parks within a 3 km radius
+- parks_nearest — distance to the nearest park (m)
+- ponds_around3000 — number of ponds within a 3 km radius
+- ponds_nearest — distance to the nearest body of water (m)
+- rooms — number of rooms
+- studio - studio apartment (boolean type)
+- total_area — total area of the apartment in square meters (m²)
+- total_images — number of photos of the apartment in the ad
+
+### Results:
 
 **During the implementation of the project, the following was done**:
 
-## Preprocessing stage
+#### Preprocessing stage
 - Primary information was obtained:
 
     - total_images — number of photos of the apartment in the ad (int64)
@@ -74,7 +109,7 @@
     - year of publication : data['exposition_year']
     - nearest city center in km: data['cityCenters_nearest_KM']
   
-## Analysis stage
+#### Analysis stage
 - Using graphs and methods to display information, we have established that:
 
    - The average sales rate has been increasing over the years.
